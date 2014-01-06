@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-//Comment via gitHub FIXED AGAIN!!!
+//Comment commited via BNDigital!!!
 ///[AddComponentMenu("Third Person Camera/Mouse Orbit")]
 public class CameraOrbit : MonoBehaviour
 {
